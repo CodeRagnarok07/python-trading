@@ -1,2 +1,5 @@
-backtrader
-yfinance
+ccxt
+pandas
+numpy
+matplotlib
+plotly

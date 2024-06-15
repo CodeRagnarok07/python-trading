@@ -1,5 +1,5 @@
-from bybit_demo import app
+import bybit_demo 
 
 
 if __name__ == "__main__":
-    app.main()
+    bybit_demo
