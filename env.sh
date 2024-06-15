@@ -1,0 +1,1 @@
+if [ -z "$VIRTUAL_ENV" ]; then source .venv/bin/activate; else source .venv/bin/activate
